@@ -1,0 +1,9 @@
+name: "Buyer"
+version: " 1.0.0"
+main: "Buyer"
+api: "5.0.0"
+
+author: "rizdevv"
+
+load: "STARTUP"
+depend: ["BedrockEconomy"]
